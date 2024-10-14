@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#scroll{
+    height: 30px;
+    background-color: rgb(80, 80, 83);
+}
+.img{
+    height: 200px;
+    width: 200px;
+    border-radius: 80%;
+}
+#top{
+    height: 230px;
+    background-color: rgb(98, 109, 134);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h3{
+    translate: 60px;
+}
+#ac{
+    translate: 80px;
+}
+#bot{
+    background-image: url(th2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
